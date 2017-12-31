@@ -7,8 +7,10 @@ package com.example.org.pushup;
 public class TestAddFile {
 
     private int test;
+    private int gone;
 
     public TestAddFile(int test){
         this.test = test;
+
     }
 }
